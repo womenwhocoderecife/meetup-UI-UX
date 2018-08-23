@@ -5,12 +5,14 @@ Meetup 1
 O EFICIENTE PROCESSO DE DESIGN UI / UX USANDO O FIGMA
 
 CRONOGRAMA:
-
-Processo do design
-Introdução a ferramenta de prototipaçāo - Figma
-Criando um Wireframe Interativo
-Aplicando o estilo no wireframe
-Finalizando protótipo - Site Pessoal ( Desktop/Mobile)
+<ul>
+  <li>Processo do design</li>
+  <li>Introdução a ferramenta de prototipaçāo - Figma</li>
+  <li>Criando um Wireframe Interativo</li>
+  <li>Aplicando o estilo no wireframe</li>
+  <li>Finalizando protótipo - Site Pessoal ( Desktop/Mobile)</li>
+</ul>
+  
 
 OBJETIVO:
 Acelere seu fluxo de trabalho.
