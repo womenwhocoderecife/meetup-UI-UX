@@ -31,7 +31,9 @@ Enfim, esse meetup já está fazendo parte do processo dessa iniciativa e o obje
 
 LEITURA COMPLEMENTAR:
 
-Fundamentos do Design - https://docs.google.com/document/d/1QExTnjTlhaHRswYhIvVVwVUdFp1fhgMxgkP2ihimBqU/edit?usp=sharing
+Fundamentos do Design - 
+https://docs.google.com/document/d/1QExTnjTlhaHRswYhIvVVwVUdFp1fhgMxgkP2ihimBqU/edit?usp=sharing
 
-Tipografia: https://docs.google.com/document/d/1DSEiFBSUxaiNuCmMdY73hiOYtR2Jz2nJYBvgT_xdJ5g/edit?usp=sharing
+Tipografia: 
+https://docs.google.com/document/d/1DSEiFBSUxaiNuCmMdY73hiOYtR2Jz2nJYBvgT_xdJ5g/edit?usp=sharing
   
