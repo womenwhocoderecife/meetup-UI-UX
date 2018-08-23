@@ -2,38 +2,40 @@
 Content/files and projects UI/UX at Women Who Code Recife
 
 Meetup 1
-O EFICIENTE PROCESSO DE DESIGN UI / UX USANDO O FIGMA
+THE EFFECTIVE DESIGN PROCESS UI / UX USING FIGMA
 
 CRONOGRAMA:
 <ul>
-  <li>Processo do design</li>
-  <li>Introdução a ferramenta de prototipaçāo - Figma</li>
-  <li>Criando um Wireframe Interativo</li>
-  <li>Aplicando o estilo no wireframe</li>
-  <li>Finalizando protótipo - Site Pessoal ( Desktop/Mobile)</li>
+  <li>Design Process</li>
+  <li>Introduction to prototyping tool - Figma</li>
+  <li>Creating an Interactive Wireframe</li>
+  <li>Applying the style in the wireframe</li>
+  <li>Finishing prototype - Personal Site ( Desktop/Mobile)</li>
 </ul>
   
 
-OBJETIVO:
-Acelere seu fluxo de trabalho.
-Aprenda a usar os recursos do Figma.
-crie designs consistentes e evite trabalhos repetitivos.
-projetar colaborativamente com toda a equipe.
-construa um projeto interativo e completo.
+GOAL:
+<ul>
+  <li>Accelerate your workflow.</li>
+  <li>Learn how to use the features of Figma.</li>
+  <li>create consistent designs and avoid repetitive work.</li>
+  <li>collaboratively with the entire team.</li>
+  <li>build an interactive and complete project.</li>
+</ul>  
 
-Obs: Esse meetup terá o Passo 2 ( Transformando o protótipo em Código) HTML, CSS e responsivo usando Flexbox.
+Obs: This meetup will have Step 2 (Transforming the prototype into Code) HTML, CSS and responsive using Flexbox.
 
-NOVIDADE:
+NEWS:
 
-Em breve estaremos lançando a iniciativa Women Dev Projects - Objetivo de desenvolver projetos pro-bonos e comerciais para colocar em prática os conhecimentos nos meetups e grupos de estudos. Oportunidade para aquisição de experiência profissional com atuação em projetos reais. Acreditamos que com a criação de um portfólio próprio os profissionais ganham mais visibilidade , e aumentam sua competitividade no mercado. Para os serviço comerciais um % será doado para a comunidade , sendo revertido em cursos, livros , coffeebreaks e conferências para os membros e incentivando o empreendedorismo feminino.
+Soon we will be launching the Women Dev Projects initiative - aim to develop pro-bonos and commercial projects to put into practice the knowledge in meetups and study groups. Opportunity to acquire professional experience with real projects. We believe that with the creation of an own portfolio professionals gain more visibility and increase their competitiveness in the market. For commercial services a% will be donated to the community, being reverted to courses, books, coffeebreaks and conferences for members and encouraging female entrepreneurship.
 
-Enfim, esse meetup já está fazendo parte do processo dessa iniciativa e o objetivo é alinharmos os conhecimentos, nos preparamos, porque com certeza teremos projetos reais para desenvolver, sendo assim, a ideia é formar times de dev e designers para as oportunidades que irão surgir.
+Anyway, this meetup is already part of the process of this initiative and the goal is to align the knowledge, we prepare, because we will certainly have real projects to develop, so the idea is to train dev teams and designers for the opportunities that will arise .
 
-LEITURA COMPLEMENTAR:
+READ MORE:
 
-Fundamentos do Design - 
+Fundamentals of Design - 
 https://docs.google.com/document/d/1QExTnjTlhaHRswYhIvVVwVUdFp1fhgMxgkP2ihimBqU/edit?usp=sharing
 
-Tipografia: 
+Tipografy: 
 https://docs.google.com/document/d/1DSEiFBSUxaiNuCmMdY73hiOYtR2Jz2nJYBvgT_xdJ5g/edit?usp=sharing
   
