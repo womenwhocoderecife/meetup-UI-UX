@@ -4,7 +4,7 @@ Content/files and projects UI/UX at Women Who Code Recife
 Meetup 1
 THE EFFECTIVE DESIGN PROCESS UI / UX USING FIGMA
 
-CRONOGRAMA:
+SCHEDULE:
 <ul>
   <li>Design Process</li>
   <li>Introduction to prototyping tool - Figma</li>
