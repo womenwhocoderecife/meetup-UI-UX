@@ -50,8 +50,16 @@ https://docs.google.com/document/d/1NYNqTxavqREvlwT44uCXWvQus63DJX-tCucNj53kSDE/
 Step 3 - Design:
 https://docs.google.com/document/d/1lFj_SJrFbJXhQ-zOqhGhfkhOY7iwQqiL-CfyqE_80wM/edit?usp=sharing
 
-Meetup - Project
+PROJECTS
+
+Meetup - Final Project
 https://www.figma.com/file/e0agdxIfKgAKssH0ZoIVQ3l0/Personal-Page?node-id=0%3A1
+
+Wireframe:
+https://www.figma.com/file/MlWKOzbTZScx7dH2N9MwMrTc/Personal-Page-Wireframe?node-id=0%3A1
+
+Wireframe Interactive:
+https://www.figma.com/file/ODPWyJyBoYGaCYlXr1P2Yqn8/Wireframe-Interativo
 
 
   
