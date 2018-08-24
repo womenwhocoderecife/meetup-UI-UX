@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1DSEiFBSUxaiNuCmMdY73hiOYtR2Jz2nJYBvgT_xdJ5g/
 
 Process of Design:
 
-Step 1 - Undertand:
+Step 1 - Understand:
 https://docs.google.com/document/d/13Aoz1kocq2pdihFdqZuUY6TJROO8Nwz7eo5Hnzd_Bkw/edit?usp=sharing
 
 Step 2 - Plan:
