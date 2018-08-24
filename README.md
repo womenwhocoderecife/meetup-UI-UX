@@ -38,4 +38,17 @@ https://docs.google.com/document/d/1QExTnjTlhaHRswYhIvVVwVUdFp1fhgMxgkP2ihimBqU/
 
 Tipografy: 
 https://docs.google.com/document/d/1DSEiFBSUxaiNuCmMdY73hiOYtR2Jz2nJYBvgT_xdJ5g/edit?usp=sharing
+
+Process of Design:
+
+Step 1 - Undertand:
+https://docs.google.com/document/d/13Aoz1kocq2pdihFdqZuUY6TJROO8Nwz7eo5Hnzd_Bkw/edit?usp=sharing
+
+Step 2 - Plan:
+https://docs.google.com/document/d/1NYNqTxavqREvlwT44uCXWvQus63DJX-tCucNj53kSDE/edit?usp=sharing
+
+Step 3 - Design:
+https://docs.google.com/document/d/1lFj_SJrFbJXhQ-zOqhGhfkhOY7iwQqiL-CfyqE_80wM/edit?usp=sharing
+
+
   
