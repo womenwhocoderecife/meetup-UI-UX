@@ -64,5 +64,9 @@ https://www.figma.com/file/ODPWyJyBoYGaCYlXr1P2Yqn8/Wireframe-Interativo
 SLIDE:
 https://docs.google.com/presentation/d/1Xo2roLFlnLp7gnUdHz2j7OsiJBUQ2VM4FFQEQA3wfEs/edit?usp=sharing
 
+VIDEO:
+
+https://youtu.be/t43lycg1464
+
 
   
